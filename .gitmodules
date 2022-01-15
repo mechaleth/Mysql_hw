@@ -1,0 +1,3 @@
+[submodule "mysql_lesson_2"]
+	path = mysql_lesson_2
+	url = ./mysql_lesson_2/
